@@ -1,4 +1,4 @@
-<h3>Hi there </h3>👋
+<h3>Hi there </h3> :wave:
 
 I'm Marina, a beginner tester in Hanoi, Vietnam.
 
