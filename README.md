@@ -3,3 +3,8 @@
 I'm Marina, a beginner tester in Hanoi, Vietnam.
 
 Happy to share some of my projects completed during my learning in SkyPro IT university and practice.
+
+<h2>Tools & Technologies</h2> 
+
+Jira, qase.io, SQL, Postman, Swagger, Trello,
+SoapUI, Chrome DevTools.
