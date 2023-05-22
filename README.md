@@ -1,9 +1,7 @@
 <h2>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h2> 
 
 Welcome to my page!
-My name is Marina, I’m a beginner QA Specialist from Moscow, Russia currently living in Hanoi, Vietnam. I’m open to work including internship and temporary projects on this career transition stage. 
-
-In this repository you can find some of my projects completed during my learning in SkyPro IT university and practice. 
+My name is Marina, I’m a beginner QA Specialist from Moscow, Russia currently living in Hanoi, Vietnam. I’m open to work as a Manual QA Engineer including internship and temporary projects on this career transition stage. 
 
 To get a detailed description of my full work experience and education please find me on [LinkedIn](https://www.linkedin.com/in/marina-nesnova-2a8a9611a/)
 
@@ -37,48 +35,4 @@ To get a detailed description of my full work experience and education please fi
   </a>
 </div>
 
-
-<h2>🤓 My projects</h2> 
-
-
-<h4> PROJECT #1: Testing of a new feature in Skyeng web app for teachers ('Personal events' functionality, <a href="https://miro.com/app/board/uXjVPw7l4AE=/">mind map</a>).</h4>
-
-<strong><p> Project tasks:</p></strong>
-<ol>
-<li>	Requirement analysis and test planning</li>
-<li> Test cases/scripts development</li>
-<li> Test execution</li> 
-<li> Test result analysis and reporting</li>
-  </ol>
-<h4>Follow <a href="https://nesnova.atlassian.net/wiki/spaces/~6367ed006bbefce0aca3132d/pages/1703963/1-2">the link</a> to view the project:</h4>
-<p>Login:<br> 
-Password:</p>
-
-<strong><p> Results: </p></strong> 
-<ol>
-<li> The new feature is not ready for release as it does not fulfill its goals.</li>
-<li> For more effective testing of the functionality requirements clarifying is needed (“Testing requirements” section).</li>
-<li> To proceed to the next testing stage and make a positive decision on the feature launch it is necessary to eliminate all revealed bugs with ‘Highest’ and ‘High’ priority.</li>
-  </ol>
-
-<h4>PROJECT #2: API testing of a new feature in Skyeng web app for teachers.</h4>
- 
-<strong><p> Project tasks:</p></strong>
-<ol>
-<li> Test planning update</li>
-<li> Postman collection for API testing</li>
-<li> Test run</li>
-<li> Test reporting update</li>
-  </ol>
-
-<h4>Follow <a href="https://nesnova.atlassian.net/wiki/spaces/~6367ed006bbefce0aca3132d/pages/1703963/1-2">the link</a> to view the project details:</h4>
-<p>Login:<br> 
-Password:</p> 
-
-<strong><p> Results: </p></strong> 
-<ol>
-<li> API testing confirmed correct system work for the main positive scenarios.</li>
-<li> One of the critical errors revealed during previous functional testing hasn’t appeared which suggests the need to improve UI functionality.</li>
-<li> Performing negative test cases revealed the possibility of creating events with invalid data, such behavior of the system can only be allowed if app users have no API access.</li>
-  </ol>
 
