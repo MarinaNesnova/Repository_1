@@ -1,7 +1,7 @@
 <h2>Hi there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h2> 
 
 Welcome to my page!
-My name is Marina, I’m a beginner QA Specialist from Moscow, Russia currently living in Hanoi, Vietnam. I’m open to work as a Manual QA Engineer including internship and temporary projects on this career transition stage. 
+My name is Marina, I’m a beginner QA Specialist from Moscow, Russia. I’m open to work as a Manual QA Engineer including internship and temporary projects on this career transition stage. 
 
 To get a detailed description of my full work experience and education please find me on [LinkedIn](https://www.linkedin.com/in/marina-nesnova-2a8a9611a/)
 
